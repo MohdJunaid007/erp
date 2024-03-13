@@ -34,8 +34,9 @@ Allows administrators to view and handle user accounts. Features include adding,
 2. Navigate to the project directory in your terminal.
 3. Run the following command to install dependencies:
 
-npm install
-npm start
-The application will start on http://localhost:3000/
+### commands
+1. npm install
+2. npm start
+3. The application will start on http://localhost:3000/
 
 for any queries feel free to reach me.
