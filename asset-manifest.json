@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/erp/static/css/main.5e2650db.css",
+    "main.js": "/erp/static/js/main.92399e71.js",
+    "index.html": "/erp/index.html",
+    "main.5e2650db.css.map": "/erp/static/css/main.5e2650db.css.map",
+    "main.92399e71.js.map": "/erp/static/js/main.92399e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2650db.css",
+    "static/js/main.92399e71.js"
+  ]
+}
